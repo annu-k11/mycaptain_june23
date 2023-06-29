@@ -1,0 +1,11 @@
+# set operations
+e = {1, 2, 3}
+n = {3, 4, 5}
+
+print("Union of E and N is",  e | n  ) 
+
+print("Intersection of E and N is", e & n ) 
+
+print("Difference of E and N is", e - n ) 
+
+print("Symmetric_difference of E and N is", e ^ n  )  
