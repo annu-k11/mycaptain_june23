@@ -1,0 +1,2 @@
+# Display a msg using print() function
+print("Hellow World!")
