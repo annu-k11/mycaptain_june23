@@ -1,0 +1,7 @@
+# Print positive integers from a list
+user_input = input("Enter some values separated by commas: ")
+values = list(user_input.split(","))
+
+for x in values:
+    if(int(x) > 0):
+        print(x)
